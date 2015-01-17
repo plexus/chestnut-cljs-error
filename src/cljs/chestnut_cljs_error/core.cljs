@@ -1,4 +1,5 @@
 (ns chestnut-cljs-error.core
+  (:require-macros [schema.macros :as sm])
   (:require [om.core :as om :include-macros true]
             [om.dom :as dom :include-macros true]))
 
