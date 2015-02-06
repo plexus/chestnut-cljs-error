@@ -1,4 +1,4 @@
-(ns chestnut-cljs-error.dev
+(ns chestnut-cljs-error.main
   (:require [chestnut-cljs-error.core :as core]
             [figwheel.client :as figwheel :include-macros true]
             [cljs.core.async :refer [put!]]

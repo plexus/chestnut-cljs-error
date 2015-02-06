@@ -88,4 +88,4 @@ your option) any later version.
 
 ## Chestnut
 
-Created with [Chestnut](http://plexus.github.io/chestnut/) 0.7.0-SNAPSHOT (ecadc3ce).
+Created with [Chestnut](http://plexus.github.io/chestnut/) 0.7.0-SNAPSHOT (5ccda175).
